@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:OVU-8loTQvWbPbZDkfJRdA
+url: https://github.com/frankpiva/adminlab
+urlType: REPO
+username: git

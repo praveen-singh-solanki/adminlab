@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:Ft7C0QREQtGxiMnt-KXScQ
+url: https://github.com/praveen-singh-solanki/adminlab.git
+urlType: REPO
+username: git

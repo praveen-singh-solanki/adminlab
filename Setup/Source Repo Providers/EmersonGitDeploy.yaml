@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:nECLOA_OSYC1j2h6PQsYcg
+url: https://github.com/ehardisty/adminlab
+urlType: REPO
+username: ehardisty
